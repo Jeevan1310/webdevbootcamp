@@ -1,0 +1,23 @@
+.home {
+    background-image: url("https://www.teahub.io/photos/full/282-2820121_1080p-blue-grunge-background.jpg");
+
+    height: 720px;
+    width:auto ;
+    text-align: center;
+    color: azure;
+    padding: 300px;
+    
+}
+.red{
+    margin: 20px;
+    text-align: left;
+}
+
+.sign {
+    text-align: center;
+    align-items: center;
+
+
+}
+
+    
