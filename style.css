@@ -8,16 +8,14 @@
     padding: 300px;
     
 }
-.red{
-    margin: 20px;
-    text-align: left;
+
+.xyz img{
+    width: 350px;
+    height: auto;
+}
+.red img{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
 }
 
-.sign {
-    text-align: center;
-    align-items: center;
-
-
-}
-
-    
